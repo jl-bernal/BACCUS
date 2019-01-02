@@ -1,6 +1,0 @@
-nose
-numpy
-emcee
-matplotlib
-pymc3
-theano
